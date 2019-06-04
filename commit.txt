@@ -21,3 +21,5 @@ Author: David <d.gamon.p@gmail.com>
 Date:   Tue Jun 4 16:54:57 2019 -0400
 
     inicio
+
+//descripcion del commit junto a editor nano
