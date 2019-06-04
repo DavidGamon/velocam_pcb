@@ -1,3 +1,9 @@
+commit 1d0c388381dc6ff54cbc23ae4a18d88793e28c7a
+Author: David <d.gamon.p@gmail.com>
+Date:   Tue Jun 4 17:12:11 2019 -0400
+
+    modificacion de commit.txt
+
 commit bf94c361836fafcea5843d0370d6495c992accb7
 Author: David <d.gamon.p@gmail.com>
 Date:   Tue Jun 4 17:10:11 2019 -0400
